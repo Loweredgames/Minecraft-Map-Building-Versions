@@ -1,7 +1,7 @@
 ---
 name: Bug report (version of the map)
 about: Create a report to help us improve
-title: ''
+title: 'Bug report (version of the map)'
 labels: bug
 assignees: Lorenzo0310200
 
